@@ -1,0 +1,3 @@
+Attackers leveraged spearphishing emails with malicious links to gain access to the system.
+Attackers modifies the tty_tickets line in the sudoers file to gain root access.
+Exfiltration over standard encrypted web protocols to disguise the exchanges as normal network traffic.
