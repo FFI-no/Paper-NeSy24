@@ -29,6 +29,9 @@ demonstrate feasibility through two proof-of-concept experiments.
 ## Running the provided code
 Both experiments have a dedicated `README.md` with instructions on how to setup and run.
 
+- [**Experiment 1: LTN for Knowledge-aware Intrusion Detection**](LTN)
+- [**Experiment 2: LLMs and ASP for situational awareness**](Awareness)
+
 <!--- 
 ## Citing this article
 The paper is cited as:
