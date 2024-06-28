@@ -21,6 +21,7 @@ demonstrate feasibility through two proof-of-concept experiments.
 │   ├── Intrusion_detection.ipynb
 │   ├── README.md
 ├── Awareness (experiment 2)
+│   ├── telingo-example.py
 │   ├── generate_attack_pattern.py
 │   ├── README.md
 └── README.md
