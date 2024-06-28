@@ -2,10 +2,7 @@
 
 This directory contains the code related to experiment 2
 ## How to run the reasoner
-1. Run the telingo file:
-```bash
-telingo file.lp
-```
+1. Open and run the `telingo-example.ipynb` Jupyter Notebook
 
 ## How to run the NL -> LTL converter:
 1. Install the required packages 
